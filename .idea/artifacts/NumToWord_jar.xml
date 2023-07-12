@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NumToWord:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NumToWord_jar</output-path>
+    <root id="archive" name="NumToWord.jar">
+      <element id="module-output" name="NumToWord" />
+    </root>
+  </artifact>
+</component>
